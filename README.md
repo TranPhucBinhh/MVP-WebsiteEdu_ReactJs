@@ -24,7 +24,6 @@ MVP Website giáo dục giúp **người học tìm giáo viên phù hợp, đ�
 **Các trang đã có:** Trang Chủ, Giáo Viên, Khóa Học
 **Sẽ phát triển:** Đánh giá, Cộng Đồng, Liên Hệ
 
----
 
 ## 🚀 Yêu cầu hệ thống
 
@@ -73,7 +72,7 @@ yarn
 yarn dev
 ```
 
-> Vite sẽ hiển thị URL (thường là `http://localhost:5173`).
+> Vite sẽ hiển thị URL (`http://localhost:3000`).
 
 ---
 
@@ -83,43 +82,12 @@ yarn dev
 npm run dev        # chạy môi trường phát triển
 npm run build      # build sản phẩm (dist/)
 npm run preview    # chạy cục bộ bản build
-# (tuỳ dự án có thêm) npm run lint, npm run format
 ```
-
----
-
-## 🧱 Cấu trúc thư mục (tham khảo)
-
-```
-MVP-WebsiteEdu_ReactJs-main/
-├─ public/
-├─ src/
-│  ├─ assets/
-│  ├─ components/
-│  ├─ pages/
-│  │  ├─ Home/
-│  │  ├─ Teachers/
-│  │  ├─ Courses/
-│  │  ├─ Reviews/        # (lộ trình)
-│  │  ├─ Community/      # (lộ trình)
-│  │  └─ Contact/        # (lộ trình)
-│  ├─ routes/
-│  ├─ hooks/
-│  ├─ utils/
-│  ├─ services/          # gọi API, mô-đun dữ liệu
-│  ├─ app.jsx / main.jsx
-│  └─ styles/
-├─ index.html
-├─ package.json
-├─ vite.config.js / vite.config.ts
-└─ README.md
-```
-
 ---
 
 ## ✨ Tính năng (MVP)
 
-* **Tìm giáo viên phù hợp** theo bộ lọc cơ bản (môn học, trình độ, giá,…)
+* **Tìm giáo viên phù hợp** theo bộ lọc cơ bản
 * **Khám phá khoá học** theo danh mục / mức độ
 * **Hành trình dùng thử**: xem thông tin, đặt lịch học thử (wireflow/UI đã có)
 * **Trang cốt lõi đã hoàn thiện UI**: Trang Chủ, Giáo Viên, Khóa Học
@@ -133,8 +101,6 @@ MVP-WebsiteEdu_ReactJs-main/
 * **Thanh toán:** mua gói học, lịch sử đơn hàng
 
 > PR được khuyến khích theo phạm vi nhỏ, có test (nếu áp dụng) và mô tả rõ ràng.
-
----
 
 ## ⚙️ Cấu hình môi trường (tuỳ chọn)
 
@@ -170,26 +136,10 @@ VITE_ENABLE_MOCK=false
 * `npm run dev` không chạy → kiểm tra **Node ≥ 18**, xoá `node_modules` & `package-lock.json` rồi cài lại
 * Port xung đột → đặt biến `PORT=5174` hoặc chỉnh trong `vite.config.*`
 * Lỗi import ảnh/CSS → kiểm tra đường dẫn tương đối & alias Vite
+  
 
 ---
 
-## 🤝 Đóng góp
-
-1. Fork repo, tạo nhánh mới: `feat/ten-tinh-nang`
-2. Commit theo quy ước, tạo PR mô tả rõ ràng
-3. Review & hợp nhất khi đạt tiêu chí
-
----
-
-## 📄 Giấy phép
-
-Chọn giấy phép phù hợp (MIT/Apache-2.0/…); mặc định **MIT**:
-
-```
-MIT License – Copyright (c) 2025 TPB Education
-```
-
----
 
 ## 🌐 English Version
 
@@ -234,7 +184,6 @@ npm run preview
 
 ### Folder Structure (suggested)
 
-See the **Cấu trúc thư mục** section above.
 
 ### Features
 
@@ -263,10 +212,8 @@ Fork → feature branch → conventional commits → PR → review.
 ---
 
 ## 📬 Liên hệ
-
-* Email: [support@tpb-education.example](mailto:support@tpb-education.example) (cập nhật theo thực tế)
-* Issues: tạo trong tab *Issues* của repo
-
+* Email: [binhbinh240204@gmail.com]
+* Phone: 0352336537 (Phúc Bình)
 
 English: 
 Installation and running instructions:
