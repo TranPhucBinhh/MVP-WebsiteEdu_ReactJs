@@ -1,0 +1,67 @@
+const Khoahocdata = [
+    {
+        img: "https://i.pinimg.com/736x/73/c9/bf/73c9bff8623589e880fe589341cbd51a.jpg",
+        gradientFrom: "from-indigo-500",
+        gradientVia: "via-sky-700",
+        gradientTo: "to-purple-700",
+        title: "Tiếng Anh Người Đi Làm",
+        description: "Học cách giao tiếp tiếng Anh trong môi trường làm việc.",
+    },
+    {
+        img: "https://i.pinimg.com/736x/c9/ac/e9/c9ace952dec2ef21200a4e5b5bd019e8.jpg   ",
+        gradientFrom: "from-indigo-500",
+        gradientVia: "via-sky-700",
+        gradientTo: "to-purple-700",
+        title: "Tiếng Anh cho bé",
+        description: "Học cho bé cách giao tiếp cơ bản.",
+    },
+    {
+        img: "https://i.pinimg.com/736x/68/f1/e1/68f1e19add869370101bc13b5d4ac21c.jpg",
+        gradientFrom: "from-indigo-500",
+        gradientVia: "via-sky-700",
+        gradientTo: "to-purple-700",
+        title: "Tiếng Anh luyện nói 1-1",
+        description: "Nghe, luyện nói 1-1 với giáo viên bản ngữ.",
+    },
+    {
+        img: "https://i.pinimg.com/736x/5c/fd/69/5cfd69f362d214cbdce8c7a7fbd68361.jpg",
+        gradientFrom: "from-indigo-500",
+        gradientVia: "via-sky-700",
+        gradientTo: "to-purple-700",
+        title: "Tiếng Anh cấp tốc nghe nói trong 2 tháng",
+        description: "Ôn luyện cấp tốc dành cho người bận rộn.",
+    },
+    {
+        img: "https://i.pinimg.com/736x/73/c9/bf/73c9bff8623589e880fe589341cbd51a.jpg",
+        gradientFrom: "from-indigo-500",
+        gradientVia: "via-sky-700",
+        gradientTo: "to-purple-700",
+        title: "Tiếng Anh Người Đi Làm",
+        description: "Học cách giao tiếp tiếng Anh trong môi trường làm việc.",
+    },
+    {
+        img: "https://i.pinimg.com/736x/73/c9/bf/73c9bff8623589e880fe589341cbd51a.jpg",
+        gradientFrom: "from-indigo-500",
+        gradientVia: "via-sky-700",
+        gradientTo: "to-purple-700",
+        title: "Tiếng Anh cho bé",
+        description: "Học cho bé cách giao tiếp cơ bản.",
+    },
+    {
+        img: "https://i.pinimg.com/736x/73/c9/bf/73c9bff8623589e880fe589341cbd51a.jpg",
+        gradientFrom: "from-indigo-500",
+        gradientVia: "via-sky-700",
+        gradientTo: "to-purple-700",
+        title: "Tiếng Anh luyện nói 1-1",
+        description: "Nghe, luyện nói 1-1 với giáo viên bản ngữ.",
+    },
+    {
+        img: "https://i.pinimg.com/736x/73/c9/bf/73c9bff8623589e880fe589341cbd51a.jpg",
+        gradientFrom: "from-indigo-500",
+        gradientVia: "via-sky-700",
+        gradientTo: "to-purple-700",
+        title: "Tiếng Anh cấp tốc nghe nói trong 2 tháng",
+        description: "Ôn luyện cấp tốc dành cho người bận rộn.",
+    }
+]
+export default Khoahocdata;
