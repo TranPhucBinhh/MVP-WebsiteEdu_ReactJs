@@ -21,8 +21,8 @@ const navItems = [
     },
     {
         id: 5,
-        name: "Chúng Tôi",
-        path: "/about",
+        name: "Cộng Đồng",
+        path: "/community",
     },
     {
         id: 6,
