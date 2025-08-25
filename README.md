@@ -1,4 +1,5 @@
 # React + Vite
+Do giới hạn thời gian, nên phần backend NestJS em đang triển khai. Tuy nhiên em nắm được cách xây dựng NestJS (module, controller, service, Prisma/TypeORM) và có thể bổ sung sau.”
 
 Hướng dẫn cài đặt và chạy:
 => B1: Clone or tải file zip về máy tính
@@ -128,15 +129,6 @@ VITE_ENABLE_MOCK=false
 * **Đặt tên rõ ràng**, dùng TypeScript (nếu có) để kiểm tra kiểu
 * **Styling**: TailwindCSS/SCSS/Styled-Components (tuỳ dự án)
 * **Commit**: Conventional Commits (`feat:`, `fix:`, `docs:`…)
-
----
-
-## 🐞 Khắc phục sự cố
-
-* `npm run dev` không chạy → kiểm tra **Node ≥ 18**, xoá `node_modules` & `package-lock.json` rồi cài lại
-* Port xung đột → đặt biến `PORT=5174` hoặc chỉnh trong `vite.config.*`
-* Lỗi import ảnh/CSS → kiểm tra đường dẫn tương đối & alias Vite
-  
 
 ---
 
