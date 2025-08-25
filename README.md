@@ -1,5 +1,5 @@
 # React + Vite
-Do giới hạn thời gian, nên phần backend NestJS em đang triển khai. Tuy nhiên em nắm được cách xây dựng NestJS (module, controller, service, Prisma/TypeORM) và có thể bổ sung sau.”
+Trong phạm vi 5 ngày, em đã hoàn thiện phần frontend bằng ReactJS. Backend NestJS em mới dừng ở mức mock API, nhưng em đã rõ cấu trúc NestJS (module, controller, service) và có thể bổ sung trong thời gian tới.”
 
 Hướng dẫn cài đặt và chạy:
 => B1: Clone or tải file zip về máy tính
