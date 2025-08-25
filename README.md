@@ -1,5 +1,5 @@
 # React + Vite
-Trong phạm vi 5 ngày, em đã hoàn thiện phần ReactJS.NestJS em mới dừng ở mức mock API, nhưng em đã rõ cấu trúc NestJS (module, controller, service) và có thể bổ sung trong thời gian tới.”
+Trong phạm vi 5 ngày, em đã hoàn thiện phần ReactJS + NodeJs cơ bản 
 
 Hướng dẫn cài đặt và chạy:
 => B1: Clone or tải file zip về máy tính
