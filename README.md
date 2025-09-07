@@ -1,4 +1,3 @@
-# React + Vite
 Hướng dẫn cài đặt và chạy:
 => B1: Clone or tải file zip về máy tính
 => B2: Mở Visual Studio Code và open file : MVP-WebsiteEdu_ReactJs-main
@@ -18,7 +17,6 @@ những trang còn lại sẽ phát triển và update dần thêm cho hoàn thi
 MVP Website giáo dục giúp **người học tìm giáo viên phù hợp, đặt lịch học thử, và mua gói học**. Phiên bản hiện tại đã triển khai các trang cốt lõi để người dùng hình dung hành trình học tập.
 
 **Các trang đã có:** Trang Chủ, Giáo Viên, Khóa Học
-**Sẽ phát triển:** Đánh giá, Cộng Đồng, Liên Hệ
 
 
 English: 
